@@ -1,0 +1,28 @@
+{
+  "name": "inponowwebmessage",
+  "version": "1.0.0",
+  "description": "Chat App Groupe 7",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Groupe 7",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "connect-flash": "^0.1.1",
+    "ejs": "^3.1.5",
+    "express": "*",
+    "express-fileupload": "^1.2.1",
+    "express-session": "^1.17.1",
+    "fs": "0.0.1-security",
+    "htmlspecialchars": "^1.0.5",
+    "htmlspecialchars_decode": "^1.1.0",
+    "jquery": "^3.5.1",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7",
+    "popper.js": "^1.16.1",
+    "sharp": "^0.28.3",
+    "socket.io": "*"
+  }
+}
